@@ -11,3 +11,6 @@ scikit-learn>=1.0.1,<1.1
 IPython
 # Tokenization, Ponctuationn 
 nltk==3.7
+# Word2Vec
+gensim==4.1.2
+tensorflow==2.8.0
