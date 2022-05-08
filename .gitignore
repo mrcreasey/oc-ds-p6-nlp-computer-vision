@@ -9,6 +9,7 @@ ignore/
 # data files too large for source control
 # data at https://www.kaggle.com/olistbr/brazilian-ecommerce
 data/raw/
+saved_models/
 
 # python file to add table of contents (toc) to jupyter notebook
 add_toc.py
