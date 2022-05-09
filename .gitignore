@@ -1,5 +1,6 @@
 # Project specific .gitignore
 .idea/
+.vscode/
 *.zip
 *.lnk
 *.xlsx
@@ -9,6 +10,8 @@ ignore/
 # data files too large for source control
 # data at https://www.kaggle.com/olistbr/brazilian-ecommerce
 data/raw/
+
+# don't save saved models to git (> 70MB)
 saved_models/
 
 # python file to add table of contents (toc) to jupyter notebook
