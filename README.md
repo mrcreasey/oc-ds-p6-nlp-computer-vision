@@ -46,7 +46,7 @@ Le plan de ce projet ce trouve en plus de détail dans le document
 
 ## Livrables de ce projet
 
-### [P6_01_textes_clustering.ipynb](./P6_02_textes_clustering.ipynb)
+### [P6_01_text_nlp.ipynb](./P6_02_textes_nlp.ipynb)
 
 Import des données textes
 
@@ -59,7 +59,7 @@ Extraction des features textes, via la mise en œuvre :
 - une approche de type word/sentence embedding avec BERT ;
 - une approche de type word/sentence embedding avec USE (Universal Sentence Encoder).
 
-### [P6_02_images_clustering.ipynb](./P6_03_images_clustering.ipynb)
+### [P6_02_image_classification.ipynb](./P6_03_image_classification.ipynb)
 
 Nettoyage
 
