@@ -8,7 +8,7 @@
 ignore/
 
 # data files too large for source control
-# data at https://www.kaggle.com/olistbr/brazilian-ecommerce
+# (see README.md or jupyter notebooks for data sources)
 data/raw/
 
 # don't save saved models to git (> 70MB)
