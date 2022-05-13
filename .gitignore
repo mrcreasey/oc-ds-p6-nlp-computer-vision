@@ -10,6 +10,8 @@ ignore/
 # data files too large for source control
 # (see README.md or jupyter notebooks for data sources)
 data/raw/
+# stop tracking data_labelling
+data/out/data_text_labelled.csv
 
 # don't save saved models to git (> 70MB)
 saved_models/
@@ -157,3 +159,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
