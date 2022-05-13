@@ -13,6 +13,7 @@ data/raw/
 
 # don't save saved models to git (> 70MB)
 saved_models/
+*.pickle
 
 # python file to add table of contents (toc) to jupyter notebook
 add_toc.py
