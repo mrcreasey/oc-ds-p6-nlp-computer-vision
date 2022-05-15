@@ -1,18 +1,18 @@
 ,ARI,k,model
-16,0.8744,7,supervised word embedding
+16,0.8581,7,supervised word embedding
 9,0.5551,7,TF-IDF + TSNE
 12,0.4816,7,Word2Vec
-4,0.47799074845703127,11,BOW (unigrams) + PCA + TSNE
-0,0.4647,12,BOW (unigrams) + TSNE
 15,0.4627,7,BERT Hub (base uncased)
 7,0.4492,7,BOW (unigrams) + TSNE
 8,0.4492,7,BOW (avec publicités) + TSNE
-1,0.4199,7,BOW (unigrams) + TSNE
-2,0.4199,4,BOW (unigrams) + PCA
+4,0.43011333661020124,7,BOW (unigrams) + PCA + TSNE
+1,0.4232,7,BOW (unigrams) + TSNE
+2,0.4232,7,BOW (unigrams) + PCA
 13,0.389,7,Bert HuggingFace
+0,0.3661,6,BOW (unigrams) + TSNE
 14,0.3586,7,BERT Hub (base uncased)
 10,0.33491700401792096,8,LDA(BOW) topics
-6,0.2806,8,BOW (trigrams) + TSNE
-5,0.2746,8,BOW (bigrams) + TSNE
+5,0.2813,11,BOW (bigrams) + TSNE
+6,0.2777,12,BOW (trigrams) + TSNE
 11,0.25341761462013573,5,LDA(TF_IDF) topics
-3,0.0382,7,BOW (unigrams) + PCA
+3,0.1437,7,BOW (unigrams) + PCA
