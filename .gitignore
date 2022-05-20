@@ -12,6 +12,7 @@ ignore/
 data/raw/
 # stop tracking data_labelling
 data/out/data_text_labelled.csv
+data/
 
 # don't save saved models to git (> 70MB)
 saved_models/
