@@ -17,3 +17,14 @@ tensorflow==2.8.0
 transformers==4.18.0
 tensorflow_hub==0.12.0
 tensorflow_text==2.8.1
+yellowbrick
+# Image manipulation
+pillow
+opencv-contrib-python
+plotly
+wordcloud
+# pour enregistre des images plotly com png
+kaleido
+# pour visualiser CNN model summary comme un figure
+pydot
+graphviz
