@@ -383,7 +383,7 @@ combined):
 - Replace VGG-16 with recent (pre-trained) deep learning models are faster, more efficient, more
   accurate
 - Try out different dense layer and regularization mechanisms
-- adjust trhe learning rate during fine-tuning
+- Adjust the learning rate during fine-tuning of the transfer learning model
 - Add the text features extracted by TF-IDF as inputs to the deep learning model, alongside the
   image features extracted by convolution layers, before fine-tuning the weights of the final dense
   layers and the softmax layer.
